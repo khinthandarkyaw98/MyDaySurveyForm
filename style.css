@@ -119,6 +119,12 @@ form {
   box-shadow: 0 0 0 0.2rem 	#FF7F50;
 }
 
+textarea:focus {
+  border-color: #FF6347;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem 	#FF7F50;
+}
+
 .clue {
   margin-left: 0.25rem;
   font-size: 0.9rem;
